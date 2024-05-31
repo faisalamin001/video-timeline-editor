@@ -11,4 +11,4 @@ This is a simple video timeline editor built with React. It allows users to load
 
 ### Preview
 
-![Video Timeline Editor Preview](./preview.png)
+![Video Timeline Editor Preview](./Preview.png)

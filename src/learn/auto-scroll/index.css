@@ -1,0 +1,17 @@
+body {
+  background: #000;
+}
+.timeline-editor-container {
+  .timeline-editor {
+    width: 100%;
+    max-width: 1500px;
+    height: 300px;
+    margin: auto;
+
+    &-action {
+      height: 28px !important;
+      top: 50%;
+      transform: translateY(-50%);
+    }
+  }
+}
